@@ -1,0 +1,11 @@
+[package]
+name = "neuro_bp"
+version = "0.1.0"
+edition = "2021"
+description = "DPI-C Rust static library for Ibex branch prediction bring-up"
+license = "MIT"
+
+[lib]
+crate-type = ["staticlib"]
+
+[dependencies]

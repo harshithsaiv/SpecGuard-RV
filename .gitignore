@@ -1,0 +1,10 @@
+# Rust build artifacts
+/target/
+**/target/
+
+# Logs
+sim/logs/*.csv
+
+# OS/editor
+.DS_Store
+*.swp
